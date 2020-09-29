@@ -8,6 +8,9 @@
     "stylelint-config-standard": "^20.0.0"
   },
   "template": {
+    "inheritFrom": [
+      "arlac77/template-root"
+    ],
     "usedBy": [
       "arlac77/mf-styling"
     ]
