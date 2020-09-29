@@ -6,5 +6,10 @@
   "devDependencies": {
     "stylelint": "^13.7.2",
     "stylelint-config-standard": "^20.0.0"
+  },
+  "template": {
+    "usedBy": [
+      "arlac77/mf-styling"
+    ]
   }
 }
