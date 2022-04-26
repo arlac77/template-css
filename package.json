@@ -9,7 +9,9 @@
   },
   "template": {
     "properties": {
-      "css" : { "source": "./src/*.css" }
+      "css": {
+        "source": "./src/*.css"
+      }
     },
     "inheritFrom": [
       "arlac77/template-root"
