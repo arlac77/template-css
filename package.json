@@ -15,7 +15,6 @@
       "arlac77/template-root"
     ],
     "usedBy": [
-      "arlac77/mf-styling",
       "arlac77/template-web-app"
     ]
   }
