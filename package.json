@@ -4,7 +4,7 @@
     "lint:css": "stylelint {{css.source}}"
   },
   "devDependencies": {
-    "stylelint": "^16.0.1",
+    "stylelint": "^16.0.2",
     "stylelint-config-standard": "^35.0.0"
   },
   "template": {
