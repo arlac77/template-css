@@ -22,7 +22,7 @@
       "arlac77/svelte-common",
       "arlac77/svelte-time-series",
       "arlac77/template-web-app",
-      "konsumation/konsum-frontend-svelte"
+      "konsumation/frontend-svelte"
     ]
   }
 }
