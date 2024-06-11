@@ -19,6 +19,7 @@
     "usedBy": [
       "arlac77/mf-styling",
       "arlac77/npm-dep-graph",
+      "arlac77/resume-renderer",
       "arlac77/svelte-common",
       "arlac77/svelte-time-series",
       "arlac77/template-web-app",
