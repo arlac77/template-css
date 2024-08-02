@@ -22,8 +22,7 @@
       "arlac77/resume-renderer",
       "arlac77/svelte-common",
       "arlac77/svelte-time-series",
-      "arlac77/template-web-app",
-      "konsumation/frontend-svelte"
+      "arlac77/template-web-app"
     ]
   }
 }
