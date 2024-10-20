@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint": "npm run lint:css",
+    "lint": "node --run lint:css",
     "lint:css": "stylelint {{css.source}}"
   },
   "devDependencies": {
