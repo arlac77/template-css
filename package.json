@@ -1,7 +1,7 @@
 {
   "scripts": {
     "lint": "node --run lint:css",
-    "lint:css": "stylelint {{css.source}}"
+    "lint:css": "--overwrite-- stylelint {{css.source}}"
   },
   "devDependencies": {
     "stylelint": "^16.12.0",
@@ -10,7 +10,7 @@
   "template": {
     "properties": {
       "css": {
-        "source": "./src/*.css"
+        "source": "./src**/*.css"
       }
     },
     "inheritFrom": [
